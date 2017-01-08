@@ -1,30 +1,57 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 4, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Haven't coded in Free Code Camp since summer 2016 (I attended an immersive bootcamp 9/16-12/16), so going to try that again. Last exercise completed in 2016: "Generate Random Fractions with JavaScript." Points: 240
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** It's hard to stay focused for an hour straight, yet an hour also passes very quickly. It feels like I know more than I think I do - which is what people keep telling me, but I dislike hearing. Ending points: 254
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Filter Arrays with filter](https://www.freecodecamp.com/challenges/filter-arrays-with-filter)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: January 5, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Paired with a former bootcamp classmate on using TDD while creating a shopping cart.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I felt like I knew nothing, but this is pretty normal for me. I really want to delve into TDD but it keeps getting put on the back burner as I try to grasp basic JS.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** not available
 
+### Day 3: January 6, 2017
 
-### Day 1: June 27, Monday
+**Today's Progress**: Another hour in FCC. Trying to also get more familiar with developing in the console. Points: 254
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** Got through two of the algorithm challenges. Realized I've been writing for loops without actually understanding WHY they work the way they do. This was my downfall in math - always needing to know WHY instead of just pushing the 'I BELIEVE' button. Ugh. Ending points: 261
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link to work:** [Factorialize a number](https://www.freecodecamp.com/challenges/factorialize-a-number#?solution=%0Afunction%20factorialize(num)%20%7B%0A%20%20if%20(num%20%3D%3D%3D%200%20%7C%7C%20num%20%3D%3D%3D%201)%20%7B%0A%20%20%20%20return%201%3B%0A%20%20%7D%0A%20%20for%20(let%20i%20%3D%20num%20-%201%3B%20i%20%3E%3D%201%3B%20i--)%20%7B%0A%20%20%20%20num%20%3D%20num%20*%20i%3B%0A%20%20%7D%0A%20%20return%20num%3B%0A%7D%0A%0Afactorialize(5)%3B%0A)
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 4: January 7, 2017
+
+**Today's Progress**: Worked on setting up repo for website for new Junior Dev group. Also created Slack channel and Twitter account. Not too much actual code, but sometimes that's how it goes - tons of setup beforehand.
+
+**Thoughts:** Wishing I had graphic design/photoshop abilities so I could create a logo for this new group.
+
+**Link to work:** [Utah Junior Developers](https://github.com/SurlyMae/Utah-Junior-Developers)
+
+### Day ?: date here
+
+**Today's Progress**: Points: ???
+
+**Thoughts:** Ending points: ???
+
+**Link to work:** [name of challenge](url to challenge)
+
+### Day ?: date here
+
+**Today's Progress**: Points: ???
+
+**Thoughts:** Ending points: ???
+
+**Link to work:** [name of challenge](url to challenge)
+
+### Day ?: date here
+
+**Today's Progress**: Points: ???
+
+**Thoughts:** Ending points: ???
+
+**Link to work:** [name of challenge](url to challenge)
