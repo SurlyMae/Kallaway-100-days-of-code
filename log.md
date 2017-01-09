@@ -32,13 +32,13 @@
 
 **Link to work:** [Utah Junior Developers](https://github.com/SurlyMae/Utah-Junior-Developers)
 
-### Day ?: date here
+### Day 5: January 9, 2017
 
-**Today's Progress**: Points: ???
+**Today's Progress**: Starting algorithm: Palindrome. Sent me down the regex rabbit hole, which was way fun. Points: 262 (Somehow I got an extra point since last logging in? I'll take it, haha.)
 
-**Thoughts:** Ending points: ???
+**Thoughts:** Even if I'm just getting through one algorithm per hour(day), I'm still learning a ton. Giving myself an hour to work on one thing makes me feel okay about deep-studying and really learning whatever problem I'm trying to solve. Couldn't remember the ternary syntax for my if/return, so that was frustrating. Ending points: 263
 
-**Link to work:** [name of challenge](url to challenge)
+**Link to work:** [Check for Palindromes](https://www.freecodecamp.com/challenges/check-for-palindromes#?solution=%0Afunction%20palindrome(str)%20%7B%0A%20%20let%20reg%20%3D%20%2F%5B%5EA-Za-z0-9%5D%2Fg%3B%0A%20%20let%20loweredRegexedStr%20%3D%20str.toLowerCase().replace(reg%2C%20'')%3B%0A%20%20let%20processed%20%3D%20loweredRegexedStr.split('').reverse().join('')%3B%0A%20%20if%20(processed%20%3D%3D%3D%20loweredRegexedStr)%20%7B%0A%09return%20true%3B%0A%20%20%7D%0A%20%20else%20%7B%0A%20%20%20%20return%20false%3B%0A%20%20%7D%0A%7D%0A%0A%0A%0Apalindrome(%22eye%22)%3B%0A)
 
 ### Day ?: date here
 
