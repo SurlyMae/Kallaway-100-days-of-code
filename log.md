@@ -40,13 +40,13 @@
 
 **Link to work:** [Check for Palindromes](https://www.freecodecamp.com/challenges/check-for-palindromes#?solution=%0Afunction%20palindrome(str)%20%7B%0A%20%20let%20reg%20%3D%20%2F%5B%5EA-Za-z0-9%5D%2Fg%3B%0A%20%20let%20loweredRegexedStr%20%3D%20str.toLowerCase().replace(reg%2C%20'')%3B%0A%20%20let%20processed%20%3D%20loweredRegexedStr.split('').reverse().join('')%3B%0A%20%20if%20(processed%20%3D%3D%3D%20loweredRegexedStr)%20%7B%0A%09return%20true%3B%0A%20%20%7D%0A%20%20else%20%7B%0A%20%20%20%20return%20false%3B%0A%20%20%7D%0A%7D%0A%0A%0A%0Apalindrome(%22eye%22)%3B%0A)
 
-### Day ?: date here
+### Day 6: Jan 10, 2017
 
-**Today's Progress**: Points: ???
+**Today's Progress**: More FCC algorithm practice. Points: 263
 
-**Thoughts:** Ending points: ???
+**Thoughts:** Got through one problem. Ending points: 264
 
-**Link to work:** [name of challenge](url to challenge)
+**Link to work:** [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 
 ### Day ?: date here
 
