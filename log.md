@@ -48,6 +48,62 @@
 
 **Link to work:** [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 
+### Day 7: Jan 11, 2017
+
+**Today's Progress**: I was given a code assignment (SQL) from a job interview so that's what I worked on.
+
+**Thoughts:** I used to think I wanted to get into database management. Now I am not so sure. I miss my JavaScript.
+
+**Link to work:** N/A
+
+### Day ?: date here
+
+**Today's Progress**: Points: ???
+
+**Thoughts:** Ending points: ???
+
+**Link to work:** [name of challenge](url to challenge)
+
+### Day ?: date here
+
+**Today's Progress**: Points: ???
+
+**Thoughts:** Ending points: ???
+
+**Link to work:** [name of challenge](url to challenge)
+
+### Day ?: date here
+
+**Today's Progress**: Points: ???
+
+**Thoughts:** Ending points: ???
+
+**Link to work:** [name of challenge](url to challenge)
+
+### Day ?: date here
+
+**Today's Progress**: Points: ???
+
+**Thoughts:** Ending points: ???
+
+**Link to work:** [name of challenge](url to challenge)
+
+### Day ?: date here
+
+**Today's Progress**: Points: ???
+
+**Thoughts:** Ending points: ???
+
+**Link to work:** [name of challenge](url to challenge)
+
+### Day ?: date here
+
+**Today's Progress**: Points: ???
+
+**Thoughts:** Ending points: ???
+
+**Link to work:** [name of challenge](url to challenge)
+
 ### Day ?: date here
 
 **Today's Progress**: Points: ???
