@@ -56,13 +56,13 @@
 
 **Link to work:** N/A
 
-### Day ?: date here
+### Day 8: Jan 12, 2017
 
-**Today's Progress**: Points: ???
+**Today's Progress**: More work on the code assignment, except now it's the Access front end and VBA.
 
-**Thoughts:** Ending points: ???
+**Thoughts:** Blerg.
 
-**Link to work:** [name of challenge](url to challenge)
+**Link to work:** N/A
 
 ### Day ?: date here
 
