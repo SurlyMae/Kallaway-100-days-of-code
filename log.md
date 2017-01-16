@@ -64,29 +64,27 @@
 
 **Link to work:** N/A
 
-### Day ?: date here
+### Day 9: Jan 13, 2017
 
-**Today's Progress**: Points: ???
+**Today's Progress**: More work on the code assignment.
 
-**Thoughts:** Ending points: ???
+**Thoughts:** Still blerg.
 
-**Link to work:** [name of challenge](url to challenge)
+**Link to work:** N/A
 
-### Day ?: date here
+### Day 10: Jan 14, 2017
 
-**Today's Progress**: Points: ???
+**Today's Progress**: Messed around with website on github.io, and fiddled with Jekyll.
 
-**Thoughts:** Ending points: ???
+**Link to work:** [website](https://github.com/SurlyMae/surlymae.github.io)
 
-**Link to work:** [name of challenge](url to challenge)
+### Day 11: Jan 16, 2017
 
-### Day ?: date here
+**Today's Progress**: More work on the code assignment.
 
-**Today's Progress**: Points: ???
+**Thoughts:** Can't take it anymore. Have given it all the time I can.
 
-**Thoughts:** Ending points: ???
-
-**Link to work:** [name of challenge](url to challenge)
+**Link to work:** N/A
 
 ### Day ?: date here
 
