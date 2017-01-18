@@ -86,13 +86,13 @@
 
 **Link to work:** N/A
 
-### Day ?: date here
+### Day 12: Jan 17, 2017
 
-**Today's Progress**: Points: ???
+**Today's Progress**: Spent an hour with JavaScript30 and a few hours with a Bianca Gandolfo class (including exercises) on Front-End Masters. Also spent an hour reading up on modules in Eloquent JavaScript.
 
-**Thoughts:** Ending points: ???
+**Thoughts:** I'm easily understanding concepts I struggled with a mere two weeks ago, which reinforces my old belief that I just need more time - that this stuff is impossible to get a good handle on in three measley months of bootcamp.
 
-**Link to work:** [name of challenge](url to challenge)
+**Link to work:** [Geolocation, Follow-along highlighter](//javascript30.com)
 
 ### Day ?: date here
 
