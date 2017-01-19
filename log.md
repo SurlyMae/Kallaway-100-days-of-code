@@ -102,6 +102,54 @@
 
 **Link to work:** [UtahJS website](https://github.com/SurlyMae/utahjs-com)
 
+### Day 14: Jan 19, 2017
+
+**Today's Progress**: Spent time on the UJD site, creating basic layout, creating and uploading images, etc.
+
+**Thoughts:** I need to get better at design. Only one way to do that!
+
+**Link to work:** [Utah Junior Devs website](https://github.com/SurlyMae/Utah-Junior-Developers)
+
+### Day ?: date here
+
+**Today's Progress**: Points: ???
+
+**Thoughts:** Ending points: ???
+
+**Link to work:** [name of challenge](url to challenge)
+
+### Day ?: date here
+
+**Today's Progress**: Points: ???
+
+**Thoughts:** Ending points: ???
+
+**Link to work:** [name of challenge](url to challenge)
+
+### Day ?: date here
+
+**Today's Progress**: Points: ???
+
+**Thoughts:** Ending points: ???
+
+**Link to work:** [name of challenge](url to challenge)
+
+### Day ?: date here
+
+**Today's Progress**: Points: ???
+
+**Thoughts:** Ending points: ???
+
+**Link to work:** [name of challenge](url to challenge)
+
+### Day ?: date here
+
+**Today's Progress**: Points: ???
+
+**Thoughts:** Ending points: ???
+
+**Link to work:** [name of challenge](url to challenge)
+
 ### Day ?: date here
 
 **Today's Progress**: Points: ???
