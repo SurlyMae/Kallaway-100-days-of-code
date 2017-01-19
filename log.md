@@ -94,13 +94,13 @@
 
 **Link to work:** [Geolocation, Follow-along highlighter](//javascript30.com)
 
-### Day ?: date here
+### Day 13: Jan 18, 2017
 
-**Today's Progress**: Points: ???
+**Today's Progress**: Spent a quick hour making minor updates to a website I use, and submitting a PR.
 
-**Thoughts:** Ending points: ???
+**Thoughts:** Happy when folks keep their code on GH so I can try to help out!
 
-**Link to work:** [name of challenge](url to challenge)
+**Link to work:** [UtahJS website](https://github.com/SurlyMae/utahjs-com)
 
 ### Day ?: date here
 
