@@ -110,13 +110,13 @@
 
 **Link to work:** [Utah Junior Devs website](https://github.com/SurlyMae/Utah-Junior-Developers)
 
-### Day ?: date here
+### Day 15: Jan 20, 2017
 
-**Today's Progress**: Points: ???
+**Today's Progress**: Since my old WP blog was hacked somehow, I've decided to repurpose an old blog built using React and deployed on Heroku.
 
-**Thoughts:** Ending points: ???
+**Thoughts:** I've got a lot of work to do but it will be nice to have a more private place than Medium to post things.
 
-**Link to work:** [name of challenge](url to challenge)
+**Link to work:** [Personal Blog](https://ashlylamarr.herokuapp.com/)
 
 ### Day ?: date here
 
