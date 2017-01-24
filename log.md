@@ -52,7 +52,7 @@
 
 **Today's Progress**: I was given a code assignment (SQL) from a job interview so that's what I worked on.
 
-**Thoughts:** I used to think I wanted to get into database management. Now I am not so sure. I miss my JavaScript.
+**Thoughts:** I used to think I wanted to get into database management. Now I miss my JavaScript. Maybe a way to do both?
 
 **Link to work:** N/A
 
@@ -82,7 +82,7 @@
 
 **Today's Progress**: More work on the code assignment.
 
-**Thoughts:** Can't take it anymore. Have given it all the time I can.
+**Thoughts:** Have given it all the time I can - not pleased with the result but need to move on.
 
 **Link to work:** N/A
 
@@ -118,13 +118,13 @@
 
 **Link to work:** [Personal Blog](https://ashlylamarr.herokuapp.com/)
 
-### Day ?: date here
+### Day 16: Jan 23, 2017
 
-**Today's Progress**: Points: ???
+**Today's Progress**: So once I went to get a blog post date off of my WP site, lo and behold it's not blacklisted anymore, yay! Spent a ton of time revamping it.
 
-**Thoughts:** Ending points: ???
+**Thoughts:** Feels good to have my site back, tell you what!
 
-**Link to work:** [name of challenge](url to challenge)
+**Link to work:** [WordPress site](http://ashlylamarr.me/about/)
 
 ### Day ?: date here
 
