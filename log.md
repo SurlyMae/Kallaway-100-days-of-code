@@ -126,13 +126,13 @@
 
 **Link to work:** [WordPress site](http://ashlylamarr.me/about/)
 
-### Day ?: date here
+### Day 17: Jan 24, 2017
 
-**Today's Progress**: Points: ???
+**Today's Progress**: Messed around with figuring out the API to pull my blog posts from WP into my personal site (React app on Heroku)
 
-**Thoughts:** Ending points: ???
+**Thoughts:** Will need to keep investigating.
 
-**Link to work:** [name of challenge](url to challenge)
+**Link to work:** n/a
 
 ### Day ?: date here
 
