@@ -134,13 +134,13 @@
 
 **Link to work:** n/a
 
-### Day ?: date here
+### Day 18: Jan 25, 2017
 
-**Today's Progress**: Points: ???
+**Today's Progress**: Spent 4 hours pair programming with a friend on an Angular tutorial.
 
-**Thoughts:** Ending points: ???
+**Thoughts:** We'd spent 3 days or so with Angular during code school, so this was a nice refresher and much more enjoyable this time around. Also, pair programming continues to rock. We're going to pick it up again next week.
 
-**Link to work:** [name of challenge](url to challenge)
+**Link to work:** [Angular app](https://github.com/SurlyMae/angular-web-app)
 
 ### Day ?: date here
 
