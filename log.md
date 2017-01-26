@@ -142,13 +142,13 @@
 
 **Link to work:** [Angular app](https://github.com/SurlyMae/angular-web-app)
 
-### Day ?: date here
+### Day 19: Jan 26, 2017
 
-**Today's Progress**: Points: ???
+**Today's Progress**: Created a follow-along nav bar thing with WesBos.
 
-**Thoughts:** Ending points: ???
+**Thoughts:** I know we aren't supposed to count tutorials for this challenge but I spent 2 hours at a meeting to help plan a tech conf and the rest of my day applying to jobs so this will have to do.
 
-**Link to work:** [name of challenge](url to challenge)
+**Link to work:** [Follow-Along Nav](www.javascript30.com)
 
 ### Day ?: date here
 
