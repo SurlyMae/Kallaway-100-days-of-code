@@ -150,6 +150,46 @@
 
 **Link to work:** [Follow-Along Nav](www.javascript30.com)
 
+### Day 20: Jan 29, 2017
+
+**Today's Progress**: Was scheduled to pair with an old classmate but they forgot. Spent a couple of hours with 5 days of javascript30 and a but messing around with an old flexbox assignment.
+
+**Thoughts:** Gonna conquer Flexbox this week. Tired of it getting the best of me.
+
+**Link to work:** [Mondrian painting](https://github.com/SurlyMae-TIY/wk-05-mondrian)
+
+### Day ?: date here
+
+**Today's Progress**: Points: ???
+
+**Thoughts:** Ending points: ???
+
+**Link to work:** [name of challenge](url to challenge)
+
+### Day ?: date here
+
+**Today's Progress**: Points: ???
+
+**Thoughts:** Ending points: ???
+
+**Link to work:** [name of challenge](url to challenge)
+
+### Day ?: date here
+
+**Today's Progress**: Points: ???
+
+**Thoughts:** Ending points: ???
+
+**Link to work:** [name of challenge](url to challenge)
+
+### Day ?: date here
+
+**Today's Progress**: Points: ???
+
+**Thoughts:** Ending points: ???
+
+**Link to work:** [name of challenge](url to challenge)
+
 ### Day ?: date here
 
 **Today's Progress**: Points: ???
