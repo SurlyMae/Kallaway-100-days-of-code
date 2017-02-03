@@ -174,13 +174,13 @@
 
 **Link to work:** [Flex-basis, -shrink, -grow](http://ashlylamarr.me/flexbox/)
 
-### Day ?: date here
+### Day 23: Feb 2, 2017
 
-**Today's Progress**: Points: ???
+**Today's Progress**: Received a code assignment from a potential employer. Spent a few hours fleshing out the basics for the project.
 
-**Thoughts:** Ending points: ???
+**Thoughts:** Really excited about this one. I wish I knew enough to do the things I actually want to do with it.
 
-**Link to work:** [name of challenge](url to challenge)
+**Link to work:** [Venue Site](https://github.com/SurlyMae/venue-webpage)
 
 ### Day ?: date here
 
