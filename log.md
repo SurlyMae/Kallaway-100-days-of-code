@@ -150,7 +150,7 @@
 
 **Link to work:** [Follow-Along Nav](www.javascript30.com)
 
-### Day 20: Jan 29, 2017
+### Day 20: Jan 30, 2017
 
 **Today's Progress**: Was scheduled to pair with an old classmate but they forgot. Spent a couple of hours with 5 days of javascript30 and a but messing around with an old flexbox assignment.
 
@@ -158,21 +158,15 @@
 
 **Link to work:** [Mondrian painting](https://github.com/SurlyMae-TIY/wk-05-mondrian)
 
-### Day ?: date here
+### Day 21: Jan 31, 2017
 
-**Today's Progress**: Points: ???
+**Today's Progress**: Paired for a couple of hours with a friend on some Code Wars. Two katas dealing with object manipulation. Also spent an hour reviewing Markdown so I could use it in my blog.
 
-**Thoughts:** Ending points: ???
+**Thoughts:** There was a concept in the last problem I wasn't understanding, then I finally understood - so when I got home I decided to write a blog post about it to cement my comprehension.  
 
-**Link to work:** [name of challenge](url to challenge)
+**Link to work:** [Object Manipulation](http://ashlylamarr.me/javascript-object-manipulation/)
 
-### Day ?: date here
 
-**Today's Progress**: Points: ???
-
-**Thoughts:** Ending points: ???
-
-**Link to work:** [name of challenge](url to challenge)
 
 ### Day ?: date here
 
