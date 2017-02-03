@@ -182,13 +182,13 @@
 
 **Link to work:** [Venue Site](https://github.com/SurlyMae/venue-webpage)
 
-### Day ?: date here
+### Day 24: Feb 3, 2017
 
-**Today's Progress**: Points: ???
+**Today's Progress**: Working on the code assignment from yesterday. I have a week to finish it.
 
-**Thoughts:** Ending points: ???
+**Thoughts:** Trying to utilize Flexbox in this project since that's what I'm trying to learn at the moment. It will help solidify my understanding of it.
 
-**Link to work:** [name of challenge](url to challenge)
+**Link to work:** [Venue Site](https://github.com/SurlyMae/venue-webpage)
 
 ### Day ?: date here
 
