@@ -166,7 +166,13 @@
 
 **Link to work:** [Object Manipulation](http://ashlylamarr.me/javascript-object-manipulation/)
 
+### Day 22: Feb 1, 2017
 
+**Today's Progress**: Spend the entire day studying Flexbox and messing around with it.
+
+**Thoughts:** Just like with the day before, found that writing a post about a few Flexbox properties helped my brain retain what I'd learned.
+
+**Link to work:** [Flex-basis, -shrink, -grow](http://ashlylamarr.me/flexbox/)
 
 ### Day ?: date here
 
