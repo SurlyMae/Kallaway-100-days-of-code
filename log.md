@@ -204,6 +204,10 @@
 
 **Today's Progress**: Day 3 of new job. More HTML/CSS/SQL.
 
+### Day 28: Feb 9, 2017
+
+**Today's Progress**: Day 4 of new job. More HTML/CSS/SQL.
+
 ### Day ?: date here
 
 **Today's Progress**: Points: ???
