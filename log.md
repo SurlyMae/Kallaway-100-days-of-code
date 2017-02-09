@@ -196,6 +196,9 @@
 
 **Thoughts:** Surely this counts? Surely it's going to have to because as one can imagine I'm exhausted at the end of the day.
 
+### Day 26: Feb 7, 2017
+
+**Today's Progress**: Day 2 of new job. More HTML/CSS/SQL.
 
 ### Day ?: date here
 
