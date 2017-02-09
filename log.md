@@ -190,6 +190,13 @@
 
 **Link to work:** [Venue Site](https://github.com/SurlyMae/venue-webpage)
 
+### Day 25: Feb 6, 2017
+
+**Today's Progress**: Started a new job. Utilized HTML/CSS/SQL today.
+
+**Thoughts:** Surely this counts? Surely it's going to have to because as one can imagine I'm exhausted at the end of the day.
+
+
 ### Day ?: date here
 
 **Today's Progress**: Points: ???
